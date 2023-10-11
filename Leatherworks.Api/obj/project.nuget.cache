@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xJG8Y0izzeVaBQ85XHzR3YvfWhWX6LT4UfROHH+maSBz5+Q4fdWnMYicjT2jFTfbOiJja4ZrtKVB9dU4P7SkdQ==",
+  "dgSpecHash": "0Q6UTcOMZsuikbJxj4yvpeftH4EJqF721AmBsa8NS65LFwbR7qqUbS76vWcH2aF0/W1PxHUIrSUb0uKtSFPNEQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\victo\\OneDrive\\Documents\\Personal\\Leatherworks\\Leatherworks.Api\\Leatherworks.Api.csproj",
   "expectedPackageFiles": [
@@ -21,10 +21,7 @@
     "C:\\Users\\victo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\7.0.12\\microsoft.netcore.app.runtime.linux-x64.7.0.12.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\7.0.12\\microsoft.aspnetcore.app.runtime.linux-x64.7.0.12.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\7.0.12\\microsoft.netcore.app.host.linux-x64.7.0.12.nupkg.sha512"
+    "C:\\Users\\victo\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512"
   ],
   "logs": []
 }
