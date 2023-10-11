@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Leatherworks.Api.props" />
+</Project>
