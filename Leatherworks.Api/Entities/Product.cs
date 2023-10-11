@@ -23,8 +23,5 @@ public class Product
     [BsonElement("features")]
     public string[] features { get; set; } = { "11 cards", "RFID Blocking" };
     [BsonElement("colors")]
-    public Tuple<string, string>[] colors { get; set; } = {
-            Tuple.Create("Hazelnut", "#a8715a"),
-            Tuple.Create("bazelnut", "#b8715a"),
-        };
+    public string[] colors { get; set; } = { "#a8715a", "#b8715a" };
 }

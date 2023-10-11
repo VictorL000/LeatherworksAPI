@@ -1,0 +1,25 @@
+{
+  "Id": 1,
+  "title": "Classic Bifold Wallet",
+  "price": 209.99,
+  "images": [
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg"
+  ],
+  "description": "A timeless bifold wallet designed for both style and functionality.",
+  "category": "Accessories",
+  "features": [
+    "Genuine leather",
+    "Multiple card slots",
+    "Bill compartment",
+    "RFID protection"
+  ],
+  "colors": [
+    { "name": "Black", "hexCode": "#000000" },
+    { "name": "Brown", "hexCode": "#8B4513" },
+    { "name": "Tan", "hexCode": "#D2B48C" },
+    { "name": "Navy", "hexCode": "#000080" },
+    { "name": "Gray", "hexCode": "#808080" }
+  ]
+}
